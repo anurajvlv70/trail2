@@ -1,0 +1,80 @@
+body{
+    background-color: orange;
+
+}
+.right{
+    background-color: white;
+    height: 400px;
+    width: 500px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 470px;
+    margin-top: 270px;
+    
+}
+.title{
+    margin-left: 90px;
+}
+.left{
+    margin-left: 30px;
+    margin-right: 10px;
+    margin-block-start: 10px;
+    margin-inline-end: 10px;
+    margin-inline-start: 10px;
+    padding: 15px;
+}
+.regbtn{
+    background-color: orange;
+    margin-left: 270px;
+    margin-right: 30px;
+    border-radius: 20px;
+    border-color: orange;
+    box-shadow: 30px;
+
+}
+#p2{
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-right: 10px;
+    margin-top: 5px;
+
+}
+.join{
+    align-self: center;
+    color: white;
+    margin-left: 200px;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 350px;
+
+}
+#p3{
+    align-self: center;
+    color: white;
+    margin-left: 50px;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 430px;
+}
+.sub{
+    align-self: center;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    background-color: white;
+    margin-left: 270px;
+    margin-right: 30px;
+    border-radius: 20px;
+    border-color: orange;
+    box-shadow: 30px;
+}
